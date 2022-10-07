@@ -11,8 +11,8 @@
 - 💞️ In case you want to collaborate:
 - 📫 shikharmishra2001@gmail.com,shikhar2020cs164@abesit.edu.in
 ## 🚀 About Me
-<img src="#" align="right" width="450" />
 
+<img src ="image.jpg" style="border-radius: 50%;" align="right" width="450" alt="Avatar"/>
 I'm a Web developer...
 <p>
 <p>
