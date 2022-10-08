@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=updesh126&label=Profile%20views&color=0e75b6&style=flat" alt="updesh126" /> </p>
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffecd2&size=29&multiline=true&width=700&lines=Welcome+To+The+Shikhar+Mishra's+Github+Profile)](https://git.io/typing-svg)
 
 <img src = "https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" align = "center"></img>
