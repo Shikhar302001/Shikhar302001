@@ -57,7 +57,7 @@ I'm a Web developer...
 [![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
 [![ZORIN OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os/)
 [![MAC OS](https://img.shields.io/badge/Mac%20OS-E95420?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/in/macos/monterey/)
-[![PRIME OS](https://img.shields.io/badge/Prime%20OS-E95420?style=for-the-badge&logo=primeos&logoColor=white)](https://www.primeos.in/)
+[![PRIME OS](https://img.shields.io/badge/prime%20os-E95420?style=for-the-badge&logo=primeos&logoColor=white)](https://www.primeos.in/)
 
 
 ## Software
