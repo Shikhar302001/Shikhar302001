@@ -16,7 +16,7 @@
 - 📫 shikharmishra2001@gmail.com,shikhar2020cs164@abesit.edu.in
 ## 🚀 About Me
 
-<img src ="image.jpg" style="border-radius: 50%;" align="right" width="450" alt="Avatar"/>
+<img src ="Shikhar5.jpg" style="border-radius: 50%;" align="right" width="450" alt="Avatar"/>
 I'm a Web developer...
 <p>
 <p>
