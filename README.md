@@ -56,6 +56,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![H2](https://img.shields.io/badge/H2-1E90FF?style=flat&logo=h2database&logoColor=white)
+
 
 **AI / Agents**
 
@@ -65,6 +68,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=flat&logo=anthropic&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6E56CF?style=flat)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 **Frontend**
 
