@@ -93,7 +93,7 @@
 
 ### 🤝 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shikhar--logs-f5a524?style=flat&logo=vercel&logoColor=white)](_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shikhar--logs-f5a524?style=flat&logo=vercel&logoColor=white)](https://portfolioshikhar.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shikharmishra2001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-mishra-a912ab134/)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/mishra122001)
